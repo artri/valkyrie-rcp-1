@@ -4,7 +4,7 @@ valkyrie-rcp
 Maven snapshot repository and online documentation for valkyrie-rcp project.
 
 
-Browse documentation [here](http://http://iromu.github.com/valkyrie-rcp/).
+Browse documentation [here](http://iromu.github.com/valkyrie-rcp/).
 
 	<repositories>
 	    <repository>
